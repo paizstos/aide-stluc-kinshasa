@@ -1,0 +1,59 @@
+header{
+    width : 100%;
+    height: fit-content;
+    color : aliceblue;
+    background-color: rgb(7, 13, 127);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.logo{
+    width: 35px;
+    height: 35px; 
+}
+
+
+body{
+    background-color: rgb(142, 93, 248) ;
+}
+
+section{
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: aliceblue;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+section h2 {
+    text-align: center;
+}
+
+.nav{
+    font-weight: bold;
+}
+.photos{
+    text-align: justify;
+}
+
+.image{
+    width : 300px;
+    height : 300px;
+}
+
+.image a {
+    border: none;
+}
+
+
+footer{
+    width : 100%;
+    height: auto;
+    color : aliceblue;
+    background-color: rgb(7, 13, 127);
+    padding-left: 1%;
+}
+
+footer ul {
+    float:left;
+}
